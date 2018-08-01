@@ -1,0 +1,10 @@
+node_modules
+build
+npm-debug.log
+.nuxt
+dist
+.idea
+*.iml
+logs
+*.log
+etc

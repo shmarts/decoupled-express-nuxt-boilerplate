@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Fashion archive API",
+  "author": "Martin Rojo <wat.martinrojo@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "backpack dev",
+    "build": "backpack build",
+    "start": "cross-env NODE_ENV=production node build/main.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "cross-env": "^5.2.0",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "backpack-core": "^0.7.0"
+  }
+}

@@ -1,0 +1,7 @@
+// -> Page transition
+.page-enter-active, .page-leave-active {
+  transition: all 0.2s ease;
+}
+.page-enter, .page-leave-active {
+  opacity: 0;
+}
