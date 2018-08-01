@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Fashion archive API",
   "author": "Martin Rojo <wat.martinrojo@gmail.com>",
   "private": true,
   "scripts": {

@@ -1,7 +1,6 @@
 {
   "name": "client",
   "version": "1.0.0",
-  "description": "Fashion archive web app",
   "author": "Martin Rojo <wat.martinrojo@gmail.com>",
   "private": true,
   "scripts": {
